@@ -8,6 +8,7 @@ public class FristApplication {
 
     public static void main(String[] args) {
         SpringApplication.run(FristApplication.class, args);
+        String a="a";
     }
 
 }
